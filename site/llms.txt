@@ -1,0 +1,57 @@
+# Thatch & Trail
+
+> A free, independent guide to visiting vineyards in England, Wales and the Channel Islands: 145 vineyards and wineries open to visitors, 122 of them estate-verified. Each listing covers opening days, tours and tastings, food, places to stay, dogs and children, and how to get there without a car.
+
+"Estate-verified" means the estate itself confirmed the details to Thatch & Trail by email; the month of confirmation is shown on each page. Details not confirmed by the estate are labelled "From their website". Thatch & Trail does not accept payment for listings or reviews. Last updated November 2026.
+
+## Find vineyards
+- [All vineyards and the UK map](https://thatchandtrail.com/): every estate, filterable by region, food, stay and verified status
+- [Regions](https://thatchandtrail.com/regions/): one page per region
+- [Vineyards near you](https://thatchandtrail.com/near/): vineyards near major towns, nearest first, with distances
+- [What estate-verified means](https://thatchandtrail.com/verified)
+
+## Regions
+- [Sussex vineyards](https://thatchandtrail.com/sussex/)
+- [Kent vineyards](https://thatchandtrail.com/kent/)
+- [Surrey vineyards](https://thatchandtrail.com/surrey/)
+- [Hampshire vineyards](https://thatchandtrail.com/hampshire/)
+- [Berkshire & Buckinghamshire vineyards](https://thatchandtrail.com/thames/)
+- [East of England vineyards](https://thatchandtrail.com/east/)
+- [The South West vineyards](https://thatchandtrail.com/southwest/)
+- [Cotswolds & the West vineyards](https://thatchandtrail.com/west/)
+- [Wales vineyards](https://thatchandtrail.com/wales/)
+- [The Midlands vineyards](https://thatchandtrail.com/midlands/)
+- [Yorkshire vineyards](https://thatchandtrail.com/north/)
+- [Channel Islands vineyards](https://thatchandtrail.com/channel-islands/)
+
+## Vineyards near towns
+- [Vineyards near Ashford](https://thatchandtrail.com/near/ashford)
+- [Vineyards near Bath](https://thatchandtrail.com/near/bath)
+- [Vineyards near Brighton](https://thatchandtrail.com/near/brighton)
+- [Vineyards near Canterbury](https://thatchandtrail.com/near/canterbury)
+- [Vineyards near Cheltenham](https://thatchandtrail.com/near/cheltenham)
+- [Vineyards near Chichester](https://thatchandtrail.com/near/chichester)
+- [Vineyards near Dorchester](https://thatchandtrail.com/near/dorchester)
+- [Vineyards near Exeter](https://thatchandtrail.com/near/exeter)
+- [Vineyards near Guildford](https://thatchandtrail.com/near/guildford)
+- [Vineyards near Hastings](https://thatchandtrail.com/near/hastings)
+- [Vineyards near Hereford](https://thatchandtrail.com/near/hereford)
+- [Vineyards near Horsham](https://thatchandtrail.com/near/horsham)
+- [Vineyards near Leeds](https://thatchandtrail.com/near/leeds)
+- [Vineyards near London](https://thatchandtrail.com/near/london)
+- [Vineyards near Maidstone](https://thatchandtrail.com/near/maidstone)
+- [Vineyards near Petersfield](https://thatchandtrail.com/near/petersfield)
+- [Vineyards near Reading](https://thatchandtrail.com/near/reading)
+- [Vineyards near Tunbridge Wells](https://thatchandtrail.com/near/tunbridge-wells)
+- [Vineyards near Winchester](https://thatchandtrail.com/near/winchester)
+
+## Guides
+- [Vineyards by train from London](https://thatchandtrail.com/guide/vineyards-by-train)
+- [Vineyards with restaurants](https://thatchandtrail.com/guide/vineyards-with-restaurants)
+- [Vineyards with accommodation](https://thatchandtrail.com/guide/vineyards-with-accommodation)
+- [Vineyards open in winter](https://thatchandtrail.com/guide/vineyards-in-winter)
+- [Vineyard wedding venues](https://thatchandtrail.com/guide/vineyard-wedding-venues)
+- [Sussex wine trails](https://thatchandtrail.com/trail/)
+
+## Optional
+- [Sitemap](https://thatchandtrail.com/sitemap.xml): every estate page is at https://thatchandtrail.com/v/<estate-name>
