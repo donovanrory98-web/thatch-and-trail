@@ -1,0 +1,42 @@
+{
+  "_note": "Titles, descriptions and H1s chosen from real Search Console queries. tools/apply_seo.py applies them after every build. Last tuned 25 Nov 2026 from 11-25 Nov data.",
+  "guide/vineyard-wedding-venues.html": {
+    "title": "Vineyard Wedding Venues in Sussex: 12 Wine Estates",
+    "description": "The 12 Sussex vineyards that host weddings and private events: tithe barns, garden bars, Grade I gardens and tasting rooms with a view.",
+    "h1": "Vineyard wedding venues in Sussex",
+    "why": "~400 impressions for 'vineyard wedding venues', 'winery wedding venues', 'wedding vineyard' at positions 30-65"
+  },
+  "guide/vineyards-open-to-visit.html": {
+    "title": "Sussex Vineyard Tours & Tastings: 33 Open to Visit",
+    "description": "The 33 Sussex vineyards running regular public tours and wine tastings, with opening days, food, dogs and the nearest station. No waiting for an open day.",
+    "h1": "Sussex vineyard tours and tastings: 33 open to visit",
+    "why": "'sussex vineyards', 'wine tasting in sussex', 'sussex vineyard tours'; title said 32, page lists 33"
+  },
+  "days/rother-weekend.html": {
+    "title": "Rother Wine Triangle: A Vineyard Weekend Near Rye",
+    "description": "Three Rother Wine Triangle vineyards you can visit, all within twenty minutes of Rye, and every one of them has somewhere to sleep.",
+    "why": "44 impressions for 'rother wine triangle' at positions 35-51, but the title didn't say it"
+  },
+  "days/pulborough-three-vineyards.html": {
+    "title": "Vineyards Near Pulborough: A Day Out by Train",
+    "description": "Seven Sussex vineyards sit within twenty minutes of Pulborough station. Three make an unhurried day on foot and by taxi, and one of them does lunch.",
+    "why": "'vineyard pulborough' at position 10.5; old description cut off mid-word"
+  },
+  "guide/vineyards-by-train.html": {
+    "title": "Vineyards Near London by Train: Sussex & Kent",
+    "why": "'vineyards near london by train' and 'kent vineyard tour without driving from london' at positions 9-11"
+  },
+  "guide/vineyards-with-accommodation.html": {
+    "description": "Shepherd's huts, Jacobean farmhouses, vineyard lodges and a converted hop barn: the 14 Sussex vineyards where you can stay the night on the estate."
+  },
+  "guide/vineyards-with-restaurants.html": {
+    "description": "Make a day of it at the Sussex vineyards that serve food on site, from Michelin-recommended dining rooms to a barn café."
+  },
+  "trail/chichester-petworth.html": {
+    "description": "West Sussex at its most polished: luxury lodges, tasting terraces and boutique sparkling specialists between the Downs and the coast."
+  },
+  "days/robertsbridge-day.html": {
+    "title": "Robertsbridge in a Day: Three Sussex Vineyards",
+    "description": "Three vineyards, all open, all within fifteen minutes of Robertsbridge station, and unusually all three have accommodation on site."
+  }
+}
