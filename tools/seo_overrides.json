@@ -1,5 +1,5 @@
 {
-  "_note": "Titles, descriptions and H1s chosen from real Search Console queries. tools/apply_seo.py applies them after every build. Last tuned 25 Nov 2026 from 11-25 Nov data.",
+  "_note": "Titles, descriptions and H1s chosen from Search Console queries (25 Nov) and OpenSEO UK search volumes (26 Nov). tools/apply_seo.py applies them after every build.",
   "guide/vineyard-wedding-venues.html": {
     "title": "Vineyard Wedding Venues in Sussex: 12 Wine Estates",
     "description": "The 12 Sussex vineyards that host weddings and private events: tithe barns, garden bars, Grade I gardens and tasting rooms with a view.",
@@ -38,5 +38,37 @@
   "days/robertsbridge-day.html": {
     "title": "Robertsbridge in a Day: Three Sussex Vineyards",
     "description": "Three vineyards, all open, all within fifteen minutes of Robertsbridge station, and unusually all three have accommodation on site."
+  },
+  "index.html": {
+    "title": "English Vineyards to Visit: 145 Estates | Thatch & Trail",
+    "why": "'english vineyards' 1,300/mo, difficulty 5; 'vineyard tours' 720/mo"
+  },
+  "kent/index.html": {
+    "title": "Kent Vineyards to Visit: All 22, Tours & Tastings",
+    "h1": "Kent vineyards to visit",
+    "why": "'kent vineyards' 3,600/mo, difficulty 17: the biggest county search"
+  },
+  "sussex/index.html": {
+    "title": "Sussex Vineyards to Visit: All 46, Tours & Tastings",
+    "description": "All 46 Sussex vineyards that welcome visitors, East and West: tours, tastings, restaurants, stays, dog policies and the nearest station for each.",
+    "why": "'sussex vineyards' + 'vineyards in sussex' 3,200/mo, difficulty 11-14"
+  },
+  "surrey/index.html": {
+    "title": "Surrey Vineyards to Visit: Tours & Tastings Near London",
+    "why": "'surrey vineyards' 880/mo; page already ranks for 'vineyards near london' (590/mo)"
+  },
+  "hampshire/index.html": {
+    "title": "Hampshire Vineyards to Visit: Tours & Tastings",
+    "why": "'hampshire vineyards' 590/mo"
+  },
+  "southwest/index.html": {
+    "title": "South West Vineyards: Devon, Cornwall, Dorset & More",
+    "description": "21 South West vineyards open to visitors, from Devon and Cornwall to Dorset and Somerset: opening days, tours, food, dogs and the nearest station.",
+    "h1": "South West vineyards you can visit",
+    "why": "'devon vineyards' 590/mo (difficulty 0), 'cornwall vineyards' 390/mo; fixes 'The South West vineyards' wording"
+  },
+  "trail/horsham-arun-valley.html": {
+    "title": "Horsham Vineyards: 8 to Visit in the Arun Valley",
+    "why": "'horsham vineyard' position 10.8 and 'arun valley vineyard' position 6.1 in Search Console"
   }
 }
