@@ -1,6 +1,6 @@
 # Thatch & Trail
 
-> A free, independent guide to visiting vineyards in England, Wales and the Channel Islands: 145 vineyards and wineries open to visitors, 122 of them estate-verified. Each listing covers opening days, tours and tastings, food, places to stay, dogs and children, and how to get there without a car.
+> A free, independent guide to visiting vineyards in England, Wales and the Channel Islands: 150 vineyards and wineries open to visitors, 127 of them estate-verified. Each listing covers opening days, tours and tastings, food, places to stay, dogs and children, and how to get there without a car.
 
 "Estate-verified" means the estate itself confirmed the details to Thatch & Trail by email; the month of confirmation is shown on each page. Details not confirmed by the estate are labelled "From their website". Thatch & Trail does not accept payment for listings or reviews. Last updated November 2026.
 
@@ -15,7 +15,7 @@
 - [Kent vineyards](https://thatchandtrail.com/kent/)
 - [Surrey vineyards](https://thatchandtrail.com/surrey/)
 - [Hampshire vineyards](https://thatchandtrail.com/hampshire/)
-- [Berkshire & Buckinghamshire vineyards](https://thatchandtrail.com/thames/)
+- [Berkshire, Bucks & Oxfordshire vineyards](https://thatchandtrail.com/thames/)
 - [East of England vineyards](https://thatchandtrail.com/east/)
 - [The South West vineyards](https://thatchandtrail.com/southwest/)
 - [Cotswolds & the West vineyards](https://thatchandtrail.com/west/)
@@ -55,3 +55,10 @@
 
 ## Optional
 - [Sitemap](https://thatchandtrail.com/sitemap.xml): every estate page is at https://thatchandtrail.com/v/<estate-name>
+
+## Newly verified (November 2026)
+- [High Clandon Estate Vineyard](https://thatchandtrail.com/v/high-clandon): A small sparkling wine estate on the Clandon Downs, with Tour, Talk, Tasting on Open Days, a summer art and sculpture show, and views across the Surrey Hills to the London skyline.
+- [The Grange](https://thatchandtrail.com/v/the-grange): A family estate above the River Itchen with two-hour vineyard and winery tours from February to December, a cellar door six days a week, holiday cottages and summer Thursday Lates.
+- [Hattingley Valley](https://thatchandtrail.com/v/hattingley-valley): An award-winning Hampshire sparkling wine producer with behind-the-scenes winery tours and tastings on Saturdays and Sundays, plus Fridays from spring to harvest.
+- [Fairmile Vineyard](https://thatchandtrail.com/v/fairmile-vineyard): A dog- and child-friendly vineyard on the Fairmile above Henley, with tours by appointment every day of the year and a 30-minute walk from the station along what William Morris called “the loveliest approach to any town in England”.
+- [Chiltern Valley Winery](https://thatchandtrail.com/v/chiltern-valley): A winery, brewery and liqueur maker at Old Luxters in the Chiltern Hills, with tours most days that head out into the vines, a shop open seven days a week and a food truck in the courtyard.
